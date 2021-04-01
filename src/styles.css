@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.rod-app {
+    font-family: 'Lato';
+}
+
+.counter {
+    display: flex;
+}
+
+.rod-app {
+    width: 1170px;
+    margin: auto;
+}
+
+
+.ounter {
+    margin-top: 8px;
+    font-weight: bold;
+    color: #F27C0F;
+    font-size: 20px;
+}
+
+
+.headers {
+    font-size: 50px;
+}
+
+.navigation {
+    list-style-type: none;
+    display: flex;
+    margin-top: 8px;
+    justify-content: space-between;
+    font-family: 'Poppins';
+    font-size: 18;
+    
+    
+}
+
+.headere {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rod-navigation {
+    width: 200px;
+    justify-content: space-between;
+    color: #003399;
+}
+
+
+
+
+
+.big-nil {
+    font-family: 'Poppins';
+    color: #F27C0F;
+    font-size: 288px;
+    text-align: center;
+}
+
+
+.big-group-five {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+
+.butt {
+    border-radius: 4px;
+    background-color: #003399;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Lato';    
+}
+
+
+
+.butt2 {
+    border-radius: 4px;
+    background-color: #F27C0F;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Lato';    
+}
+
+
+
+.butt3 {
+    border-radius: 4px;
+    background-color: #E5E5E5;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Lato';    
+}
+
+
+
+
+.rod-footer {
+    margin-top: 30vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rod-logotip {
+    display: flex;
+}
+
+
+.ounter1 {
+    font-weight: bold;
+    color: gray;
+    font-size: 20px;
+}
+
+
+.rod-footer-spisok {
+    margin-right: 300px;
+    color: gray;
+    width: 400px;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+
+
+.footer-spisok {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-position: unset;
+}
